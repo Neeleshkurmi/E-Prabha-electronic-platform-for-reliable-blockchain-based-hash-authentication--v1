@@ -2,7 +2,7 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Neeleshkurmi.github.io/E-Prabha-electronic-platform-for-reliable-blockchain-based-hash-authentication--v1",
+  "homepage": "https://Neeleshkurmi.github.io/E-Prabha",
   "type": "module",
   "scripts": {
     "dev": "vite",
